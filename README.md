@@ -1,3 +1,5 @@
+# Swift for scripting
+
 A hand curated collection of useful and informative Swift Scripting materials.
 ## Index
 
