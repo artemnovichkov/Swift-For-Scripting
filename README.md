@@ -27,4 +27,4 @@ Artem Novichkov, novichkoff93@gmail.com
 
 ## License
 
- is available under the MIT license. See the LICENSE file for more info.
+Swift for scripting is available under the MIT license. See the LICENSE file for more info.
