@@ -18,6 +18,8 @@ Interactive Swift sessions right in your console.
 Working with different toolchains. Might be helpful for Server-side Swift projects 🤔.
 ### [Command Line Programs on macOS Tutorial](https://www.raywenderlich.com/163134/command-line-programs-macos-tutorial-2) by [Eric A. Soto](https://twitter.com/ericwastaken)
 Step-by-step tutorial with output streams, command-line arguments and interactive input.
+### [Swift Package Manager macOS deployment target override](https://oleb.net/blog/2017/04/swift-3-1-package-manager-deployment-target/) by [Ole Begemann](https://twitter.com/olebegemann)
+As you can understand from the title, the author writes about deployment target overriding in Swift Script project.
 
 ## Videos
 ### [Swift scripting in practice](https://youtu.be/_8hQA67n04E) by [John Sundell](https://twitter.com/johnsundell)
