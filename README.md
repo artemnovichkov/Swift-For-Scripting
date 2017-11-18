@@ -1,6 +1,6 @@
-# Swift for scripting
+# Swift for scripting [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20hand-curated%20collection%20of%20useful%20and%20informative%20Swift%20Scripting%20materials.&url=https://github.com/artemnovichkov/Swift-For-Scripting&via=iosartem&hashtags=swift,scripting)
 
-A hand curated collection of useful and informative Swift Scripting materials.
+A hand-curated collection of useful and informative Swift Scripting materials.
 ## Index
 
 - [Articles](#articles)
