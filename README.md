@@ -8,6 +8,8 @@ A hand-curated collection of useful and informative Swift Scripting materials.
 - [Others](#others)
 
 ## Articles
+### [Apple's new Utility library will power up command-line apps](https://www.hackingwithswift.com/articles/44/apple-s-new-utility-library-will-power-up-command-line-apps) by [Paul Hudson](https://twitter.com/twostraws)
+Examples of using Utility framework. `ArgumentParser` and `TerminalController` are really useful.
 ### [Building a command line tool using the Swift Package Manager](https://www.swiftbysundell.com/posts/building-a-command-line-tool-using-the-swift-package-manager?rq=package) by [John Sundell](https://twitter.com/johnsundell)
 Personally my favorite article. In format of tutorial with recommendations based on real expirience. And updated to Swift 4 🚀.
 ### [Scripting and Compiling Swift on the Command Line](http://jblevins.org/log/swift)  by [Jason Blevins](https://twitter.com/jrblevin)
