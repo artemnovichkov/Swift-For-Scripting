@@ -1,6 +1,7 @@
-# Swift for scripting
+<p align="center">
+    <img src=".github/Logo.png" />
+</p>
 
-A hand curated collection of useful and informative Swift Scripting materials.
 ## Index
 
 - [Articles](#articles)
@@ -34,6 +35,9 @@ A lot of John, but anyway - real Swift projects for your `Package.swift` file.
 ## Author
 Artem Novichkov, novichkoff93@gmail.com
 
+
+[![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/artemnovichkov?utm_source=github&utm_medium=button&utm_term=artemnovichkov&utm_campaign=github)
+
 ## License
 
-Swift for scripting is available under the MIT license. See the LICENSE file for more info.
+Swift For Scripting is available under the MIT license. See the LICENSE file for more info.
