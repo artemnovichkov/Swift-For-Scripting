@@ -11,25 +11,25 @@ by [Paul Hudson](https://twitter.com/twostraws)
 
 Examples of using Utility framework. `ArgumentParser` and `TerminalController` are really useful.
 
---
+---
 ### [Building a command line tool using the Swift Package Manager](https://www.swiftbysundell.com/posts/building-a-command-line-tool-using-the-swift-package-manager?rq=package) 
 by [John Sundell](https://twitter.com/johnsundell)
 
 Personally my favorite article. In format of tutorial with recommendations based on real experience. And updated to Swift 4 🚀
 
---
+---
 ### [Scripting and Compiling Swift on the Command Line](http://jblevins.org/log/swift) 
 by [Jason Blevins](https://twitter.com/jrblevin)
 
 A simple introduction to Swift Scripting with Fibonacci Sequence.
 
---
+---
 ### [Introduction to the Swift REPL](https://developer.apple.com/swift/blog/?id=18) 
 by Apple
 
 Interactive Swift sessions right in your console.
 
---
+---
 ### [Command Line Swift](http://www.russbishop.net/command-line-swift) 
 by [Russ Bishop](https://twitter.com/xenadu02)
 
@@ -41,13 +41,13 @@ by [Eric A. Soto](https://twitter.com/ericwastaken)
 
 Step-by-step tutorial with output streams, command-line arguments, and interactive input.
 
---
+---
 ### [Swift Package Manager macOS deployment target override](https://oleb.net/blog/2017/04/swift-3-1-package-manager-deployment-target/)
 by [Ole Begemann](https://twitter.com/olebegemann)
 
 As you can understand from the title, the author writes about deployment target overriding in Swift Script project.
 
---
+---
 ### [Handling Commands with Swift Package Manager ArgumentParser](http://www.enekoalonso.com/articles/handling-commands-with-swift-package-manager)
 by [Eneko Alonso](https://twitter.com/eneko)
 
@@ -60,13 +60,13 @@ by [John Sundell](https://twitter.com/johnsundell)
 
 Awesome talk by open-source ninja. Contains real-world cases, good points, and live demo.
 
---
+---
 ### [Swift Scripting Redux: Localization](https://news.realm.io/news/altconf-ayaka-nonaka-swift-scripting-redux-localization/) 
 by [Ayaka Nonaka](https://twitter.com/ayanonagon)
 
 Mix of Swift Scripting and Localization.
 
---
+---
 ### [Swift Scripting](https://news.realm.io/news/swift-scripting/) 
 by [Ayaka Nonaka](https://twitter.com/ayanonagon)
 
