@@ -53,6 +53,12 @@ by [Eneko Alonso](https://twitter.com/eneko)
 
 Want to use `ArgumentParser` like a pro? You should definitely read this.
 
+---
+### [How to fuzz-test a Swift package](https://loic.land/2018/04/06/fuzzing.html)
+by [Loïc Lecrenier](https://twitter.com/loiclec)
+
+Advanced technique of SPM package testing - fuzz-testing via libFuzzer.
+
 
 ## Videos
 ### [Swift scripting in practice](https://youtu.be/_8hQA67n04E) 
