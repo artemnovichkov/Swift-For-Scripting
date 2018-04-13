@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".github/Logo.png" />
+    <img src="imgs/Logo.png" />
 </p>
 <p align="center">
   <a href="#articles"> Articles </a> • <a href="#videos"> Videos </a> • <a href="#others"> Others</a>
