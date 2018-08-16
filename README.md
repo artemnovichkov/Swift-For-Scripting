@@ -59,6 +59,12 @@ Want to use `ArgumentParser` like a pro? You should definitely read this.
 
 Advanced technique of SPM package testing - fuzz-testing via libFuzzer.
 
+---
+### [How to Build Swift Compiler-Based Tool? The Step-by-Step Guide](https://www.polidea.com/blog/how-to-build-swift-compiler-based-tool-the-step-by-step-guide/)
+<sub>by [Krzysztof Siejkowski](https://twitter.com/_siejkowski)</sub>
+
+Awesom guide about using Swift compiler in your CLI tools.
+
 
 ## Videos
 ### [Swift scripting in practice](https://youtu.be/_8hQA67n04E) 
