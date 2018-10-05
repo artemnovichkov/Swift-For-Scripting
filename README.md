@@ -6,6 +6,12 @@
 </p>
 
 ## Articles
+### [Swift Tip: Using AppKit from the Command-line](https://www.objc.io/blog/2018/10/02/using-appkit-from-the-command-line/) 
+<sub>by [objc.io](https://twitter.com/objcio)</sub>
+
+Explanation of using GUI in your Swift scripts.
+
+---
 ### [Apple's new Utility library will power up command-line apps](https://www.hackingwithswift.com/articles/44/apple-s-new-utility-library-will-power-up-command-line-apps) 
 <sub>by [Paul Hudson](https://twitter.com/twostraws)</sub>
 
