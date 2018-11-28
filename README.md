@@ -21,7 +21,7 @@ Examples of using Utility framework. `ArgumentParser` and `TerminalController` a
 ### [Building a command line tool using the Swift Package Manager](https://www.swiftbysundell.com/posts/building-a-command-line-tool-using-the-swift-package-manager?rq=package) 
 <sub>by [John Sundell](https://twitter.com/johnsundell)</sub>
 
-Personally my favorite article. In format of tutorial with recommendations based on real experience. And updated to Swift 4 🚀
+Personally my favorite article. In format of tutorial with recommendations based on real experience.
 
 ---
 ### [Scripting and Compiling Swift on the Command Line](http://jblevins.org/log/swift) 
