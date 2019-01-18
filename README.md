@@ -6,6 +6,12 @@
 </p>
 
 ## Articles
+### [swift-sh](https://nshipster.com/swift-sh/) 
+<sub>by [Mattt](https://twitter.com/mattt)</sub>
+
+An article about a project that adds dependencies to your scripts.
+
+---
 ### [Swift Tip: Using AppKit from the Command-line](https://www.objc.io/blog/2018/10/02/using-appkit-from-the-command-line/) 
 <sub>by [objc.io](https://twitter.com/objcio)</sub>
 
