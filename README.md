@@ -6,9 +6,14 @@
 </p>
 
 ## Articles
+### [Using Swift for scripting](https://rderik.com/blog/using-swift-for-scripting/) 
+<sub>by [Derik Ramirez](https://twitter.com/rderik)</sub>
+
+Good article to start with scripting.
+
+---
 ### [A RunLoop for your Swift script](https://alejandromp.com/blog/2019/01/19/a-runloop-for-your-swift-script/) 
-<sub>by [Alejandro Martinez
-](https://twitter.com/alexito4)</sub>
+<sub>by [Alejandro Martinez](https://twitter.com/alexito4)</sub>
 
 Using async operations in your scripts is simpler than you think.
 
