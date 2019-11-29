@@ -6,6 +6,12 @@
 </p>
 
 ## Articles
+### [Command-line argument parsing using Swift Package Manager's SPMUtility module](https://rderik.com/blog/command-line-argument-parsing-using-swift-package-manager-s/) 
+<sub>by [Derik Ramirez](https://twitter.com/rderik)</sub>
+
+The article contains a detailed example of generation Bash/Zsh autocomletion for SPM projects.
+
+---
 ### [Using Swift for scripting](https://rderik.com/blog/using-swift-for-scripting/) 
 <sub>by [Derik Ramirez](https://twitter.com/rderik)</sub>
 
