@@ -2,10 +2,11 @@
     <img src="imgs/Logo.png" />
 </p>
 <p align="center">
-  <a href="#articles"> Articles </a> • <a href="#videos"> Videos </a> • <a href="#others"> Others</a>
+  <a href="#articles"> Articles </a> • <a href="#videos"> Videos </a>
 </p>
 
 ## Articles
+
 ### [Command-line argument parsing using Swift Package Manager's SPMUtility module](https://rderik.com/blog/command-line-argument-parsing-using-swift-package-manager-s/) 
 <sub>by [Derik Ramirez](https://twitter.com/rderik)</sub>
 
@@ -93,10 +94,15 @@ Advanced technique of SPM package testing - fuzz-testing via libFuzzer.
 ### [How to Build Swift Compiler-Based Tool? The Step-by-Step Guide](https://www.polidea.com/blog/how-to-build-swift-compiler-based-tool-the-step-by-step-guide/)
 <sub>by [Krzysztof Siejkowski](https://twitter.com/_siejkowski)</sub>
 
-Awesom guide about using Swift compiler in your CLI tools.
-
+Awesome guide about using Swift compiler in your CLI tools.
 
 ## Videos
+### [Scripting in Swift For a Testable Build](https://youtu.be/tohaS-UYTYg) 
+<sub>by [Ellen Shapiro](https://twitter.com/designatednerd)</sub>
+
+Underlying many large iOS projects is a tangled nest of bash scripts that developers are often afraid to touch for fear of breaking something, and which is littered with print statements from generations of developers trying to figure out how on earth it works. How can we move away from this mess and to something more sustainable? Ellen will discuss moving a codebase like this to a command line tool that can be called from a Swift script, and which can be tested and breakpointed, and just might save a tiny bit of your sanity.
+
+---
 ### [Swift scripting in practice](https://youtu.be/_8hQA67n04E) 
 <sub>by [John Sundell](https://twitter.com/johnsundell)</sub>
 
@@ -113,12 +119,6 @@ Mix of Swift Scripting and Localization.
 <sub>by [Ayaka Nonaka](https://twitter.com/ayanonagon)</sub>
 
 Old but good talk. Pay attention to Dependency Management section.
-## Others
-
-### [A list of Swift scripting tools, frameworks & examples](https://github.com/JohnSundell/SwiftScripting) 
-<sub>by [John Sundell](https://twitter.com/johnsundell)</sub>
-
-A lot of John, but anyway - real Swift projects for your `Package.swift` file.
 
 ## Author
 Artem Novichkov, novichkoff93@gmail.com
