@@ -7,6 +7,12 @@
 
 ## Articles
 
+### [Creating a command line tool using the Swift Package Manager](https://www.avanderlee.com/swift/command-line-tool-package-manager) 
+<sub>by [Antoine v.d. SwiftLee](https://twitter.com/twannl)</sub>
+
+Basic guide about SPM tools with simple one-command installation.
+
+---
 ### [Command-line argument parsing using Swift Package Manager's SPMUtility module](https://rderik.com/blog/command-line-argument-parsing-using-swift-package-manager-s/) 
 <sub>by [Derik Ramirez](https://twitter.com/rderik)</sub>
 
