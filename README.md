@@ -7,13 +7,18 @@
 
 ## Articles
 
+### [Announcing ArgumentParser](https://swift.org/blog/argument-parser/) 
+<sub>by [Nate Cook](https://twitter.com/nnnnnnnn/)</sub>
+
+ Swift team have released type-safe argument parsing framework. 
+
+---
 ### [The Ultimate Guide To Swift Executables 🚀](https://www.fivestars.blog/code/ultimate-guide-swift-executables.html) 
 <sub>by [Federico Zanetello](https://twitter.com/zntfdr)</sub>
 
 Just as described in the name of the article.
 
 ---
-
 ### [Creating a command line tool using the Swift Package Manager](https://www.avanderlee.com/swift/command-line-tool-package-manager) 
 <sub>by [Antoine v.d. SwiftLee](https://twitter.com/twannl)</sub>
 
