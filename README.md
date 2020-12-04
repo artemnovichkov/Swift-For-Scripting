@@ -115,6 +115,12 @@ Advanced technique of SPM package testing - fuzz-testing via libFuzzer.
 Awesome guide about using Swift compiler in your CLI tools.
 
 ## Videos
+### [UIKonf 2020 - Federico Zanetello - Swift Scripts: Zero to Hero](https://youtu.be/KbwmvThZUDM) 
+<sub>by [Federico Zanetello](https://twitter.com/zntfdr)</sub>
+
+Every iOS/macOS developer uses (scripting) tools such as fastlane and swiftLint to automate tasks as much work as possible: in this talk we will dive into how we can build our own Swift scripts.
+
+---
 ### [Scripting in Swift For a Testable Build](https://youtu.be/tohaS-UYTYg) 
 <sub>by [Ellen Shapiro](https://twitter.com/designatednerd)</sub>
 
