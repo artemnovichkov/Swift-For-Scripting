@@ -7,6 +7,13 @@
 
 ## Articles
 
+### [Creating iOS Application Icons with SwiftUI](https://www.enekoalonso.com/articles/creating-ios-application-icons-with-swiftui)
+<sub>by [Eneko Alonso](https://twitter.com/eneko)</sub>
+
+An interesting way to use SwiftUI with CLI for icon generation.
+
+---
+
 ### [Announcing ArgumentParser](https://swift.org/blog/argument-parser/) 
 <sub>by [Nate Cook](https://twitter.com/nnnnnnnn/)</sub>
 
