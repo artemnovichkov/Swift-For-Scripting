@@ -1,9 +1,10 @@
 <p align="center">
-    <img src="imgs/Logo.png" />
+    <img src=".github/logo.png" />
 </p>
 <p align="center">
   <a href="#articles"> Articles </a> • <a href="#videos"> Videos </a>
 </p>
+
 
 ## Articles
 
