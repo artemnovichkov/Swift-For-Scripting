@@ -153,7 +153,5 @@ Mix of Swift Scripting and Localization.
 Old but good talk. Pay attention to Dependency Management section.
 
 ## Author
-Artem Novichkov, mail@artemnovichkov.com
 
-
-[![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/artemnovichkov?utm_source=github&utm_medium=button&utm_term=artemnovichkov&utm_campaign=github)
+Artem Novichkov, https://www.artemnovichkov.com/about
