@@ -8,6 +8,11 @@
 
 ## Articles
 
+### [How to read passwords and sensitive data from the command-line using Swift](https://rderik.com/blog/how-to-read-passwords-and-sensitive-data-from-the-command-line-using-swift/)
+<sub>by [RDerik](https://twitter.com/rderik)</sub>
+
+---
+
 ### [Creating iOS Application Icons with SwiftUI](https://www.enekoalonso.com/articles/creating-ios-application-icons-with-swiftui)
 <sub>by [Eneko Alonso](https://twitter.com/eneko)</sub>
 
