@@ -8,6 +8,11 @@
 
 ## Articles
 
+### [swift -e runs code directly from the command line](https://blog.eidinger.info/swift-e-runs-code-directly-from-the-command-line)
+<sub>by [Marco Eidinger](https://twitter.com/MarcoEidinger)</sub>
+
+---
+
 ### [How to read passwords and sensitive data from the command-line using Swift](https://rderik.com/blog/how-to-read-passwords-and-sensitive-data-from-the-command-line-using-swift/)
 <sub>by [RDerik](https://twitter.com/rderik)</sub>
 
