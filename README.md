@@ -8,6 +8,11 @@
 
 ## Articles
 
+### [How to make an interactive picker for a Swift command-line tool](https://www.polpiella.dev/how-to-make-an-interactive-picker-for-a-swift-command-line-tool)
+<sub>by [Pol Piella](https://twitter.com/polpielladev)</sub>
+
+---
+
 ### [swift -e runs code directly from the command line](https://blog.eidinger.info/swift-e-runs-code-directly-from-the-command-line)
 <sub>by [Marco Eidinger](https://twitter.com/MarcoEidinger)</sub>
 
