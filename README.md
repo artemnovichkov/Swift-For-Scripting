@@ -8,6 +8,11 @@
 
 ## Articles
 
+### [How to Use Stable Diffusion to Generate Images with Swift CLI](https://www.appcoda.com/stable-diffusion-swift-cli/)
+<sub>by [AppCoda](https://twitter.com/appcodamobile)</sub>
+
+---
+
 ### [How to make an interactive picker for a Swift command-line tool](https://www.polpiella.dev/how-to-make-an-interactive-picker-for-a-swift-command-line-tool)
 <sub>by [Pol Piella](https://twitter.com/polpielladev)</sub>
 
