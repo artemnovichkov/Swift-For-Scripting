@@ -8,6 +8,11 @@
 
 ## Articles
 
+### [Introducing swiftly, a new Swift toolchain installer and manager](https://forums.swift.org/t/introducing-swiftly-a-new-swift-toolchain-installer-and-manager/67254)
+<sub>by [Patrick Freed](https://twitter.com/_patrick_freed_)</sub>
+
+---
+
 ### [How to Use Stable Diffusion to Generate Images with Swift CLI](https://www.appcoda.com/stable-diffusion-swift-cli/)
 <sub>by [AppCoda](https://twitter.com/appcodamobile)</sub>
 
