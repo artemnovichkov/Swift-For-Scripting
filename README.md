@@ -152,6 +152,7 @@ Awesome guide about using Swift compiler in your CLI tools.
 ### [Swift Connection 2024 - Natan Rolnik - Mastering Swift for Scripting & Tooling](https://youtu.be/tbx_T2dwoFI) 
 <sub>by [Natan Rolnik](https://twitter.com/zntfdr)</sub>
 
+---
 ### [UIKonf 2020 - Federico Zanetello - Swift Scripts: Zero to Hero](https://youtu.be/KbwmvThZUDM) 
 <sub>by [Federico Zanetello](https://x.com/natanrolnik)</sub>
 
