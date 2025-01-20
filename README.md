@@ -149,6 +149,10 @@ Awesome guide about using Swift compiler in your CLI tools.
 
 ## Videos
 
+### [Swift Argument Parser with Guilherme Rambo](https://youtu.be/DgvaQMMWEhs) 
+<sub>by [Swift Toolkit.dev](https://x.com/SwiftToolkit)</sub>
+
+---
 ### [Swift Connection 2024 - Natan Rolnik - Mastering Swift for Scripting & Tooling](https://youtu.be/tbx_T2dwoFI) 
 <sub>by [Natan Rolnik](https://twitter.com/zntfdr)</sub>
 
